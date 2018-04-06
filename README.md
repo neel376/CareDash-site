@@ -38,7 +38,7 @@
 ### Technologies used
 >	* React<br />
 >   * Bootstrap <br />
->.  * Node.js <br />
+>   * Node.js <br />
 
 ### Extra credit
 >	* Implemented form validation <br />
