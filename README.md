@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This is my website page for the CareDash front-end test
+> This is my  webpage for the CareDash front-end test
 
 ## Table of Contents:
 * [Getting Setup](#setup)
